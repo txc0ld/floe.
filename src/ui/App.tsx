@@ -155,7 +155,7 @@ export const App = () => {
     <div className="app-frame">
       <header className="topbar">
         <div>
-          <p className="eyebrow">FORGE</p>
+          <p className="eyebrow">floe</p>
           <h1>Unified agentic workspace</h1>
         </div>
         <div className="topbar-status">

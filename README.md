@@ -1,6 +1,6 @@
-# FORGE
+# floe
 
-FORGE is a greenfield unified workspace for agentic software development. This foundation slice ships a single integrated surface with:
+floe is a greenfield unified workspace for agentic software development. This foundation slice ships a single integrated surface with:
 
 - persisted workspace shell layout
 - seeded explorer and editor context

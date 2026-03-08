@@ -85,7 +85,7 @@ export type ForgeSnapshot = PersistedWorkspaceState & {
 };
 
 const STORAGE_VERSION = 1;
-export const STORAGE_KEY = `forge.workspace.v${STORAGE_VERSION}`;
+export const STORAGE_KEY = `floe.workspace.v${STORAGE_VERSION}`;
 
 export const defaultFiles: FileRecord[] = [
   {
